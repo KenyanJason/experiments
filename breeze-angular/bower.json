@@ -1,0 +1,23 @@
+{
+  "name": "breeze-angular",
+  "version": "0.0.0",
+  "description": "experiment of angular and breeze",
+  "main": "index.html",
+  "authors": [
+    "KenyanJason"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "breeze-client-labs": "~1.5.8",
+    "breeze-client": "~1.5.4",
+    "angular": "~1.4.3"
+  }
+}

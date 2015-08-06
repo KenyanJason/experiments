@@ -1,0 +1,15 @@
+{
+  "name": "breeze-angular",
+  "version": "0.0.0",
+  "description": "npm modules supporting breeze-angular experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KenyanJason",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-connect": "~2.2.0"
+  }
+}
