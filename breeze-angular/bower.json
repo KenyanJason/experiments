@@ -18,6 +18,8 @@
   "dependencies": {
     "breeze-client-labs": "~1.5.8",
     "breeze-client": "~1.5.4",
-    "angular": "~1.4.3"
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "ui-router": "~0.2.15"
   }
 }
