@@ -1,0 +1,21 @@
+{
+  "name": "angular-overview",
+  "description": "an overview of angular",
+  "main": "app.js",
+  "authors": [
+    "Jason Wanjohi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/savannahinformatics/sil-school",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
